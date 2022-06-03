@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=atejaarsma" />
 
- Hi, I’m Ate Jaarsma, PhD student with the [Deep Purple](https://www.deeppurple-ercsyg.eu/home) project at Aarhus University, Denmark. 
+ Hi, I’m Ate Jaarsma, PhD Fellow with the [Deep Purple](https://www.deeppurple-ercsyg.eu/home) project at Aarhus University, Denmark. 
  I'm a molecular biologist looking at how microbes interact in cold habitats. 👨🏼‍🔬🦠❄️
 
 
